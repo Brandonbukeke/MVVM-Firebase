@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417121351016",
+    "project_id": "mvvm-firebase-4b8bd",
+    "storage_bucket": "mvvm-firebase-4b8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417121351016:android:7f4403fd6d8ac8ab5752dd",
+        "android_client_info": {
+          "package_name": "com.bukeke.mvvmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417121351016-9soi1lpfbentvg6305kukvjdgqpg9eh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukeke.mvvmfirebase",
+            "certificate_hash": "10f607f1aecc5894bc29ceea8040c77c673dc767"
+          }
+        },
+        {
+          "client_id": "417121351016-ei9mpirrg7gimls794i3vqav81rq06de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_B2nrJYjXr0yLyM8q_ZLbkwFZyVC3jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417121351016-ei9mpirrg7gimls794i3vqav81rq06de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
